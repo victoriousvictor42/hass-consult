@@ -2,7 +2,7 @@
 #### Conducting a prediction of house prices for HassConsult Company , 27/1/2020
 #### By **Victor Mwenda**
 ## Description
-the prediction involves house prices against other features likethe number of bedrooms the house has, the number of bathrooms the house has.
+Hass Consulting Company are involved in bulding houses. so we are coming up with the predictions of the house prices against other features like the number of bedrooms the house has, the number of bathrooms the house has.
 ## Setup/Installation Requirements
 * Save a copy of the document to your Google Drive
 * Open it using the Google Colaboratory

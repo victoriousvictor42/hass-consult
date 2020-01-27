@@ -1,5 +1,5 @@
 # HassConsult Company
-#### Conducting a prediction of house prices for HassConsult Company , 21/1/2020
+#### Conducting a prediction of house prices for HassConsult Company , 27/1/2020
 #### By **Victor Mwenda**
 ## Description
 the prediction involves house prices against other features likethe number of bedrooms the house has, the number of bathrooms the house has.
